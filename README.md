@@ -1,4 +1,4 @@
-# Disk Image Cache gem - Make image loading/reloading from network in fastest way.
+# Disk Image Cache Gem - Make image loading/reloading from network in fastest way.
 
 [![Release](https://jitpack.io/v/TusharKawadkar/DiskImageCacheGem.svg)](https://jitpack.io/#TusharKawadkar/DiskImageCacheGem)
 
