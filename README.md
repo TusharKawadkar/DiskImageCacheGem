@@ -2,7 +2,7 @@
 
 [![Release](https://jitpack.io/v/TusharKawadkar/DiskImageCacheGem.svg)](https://jitpack.io/#TusharKawadkar/DiskImageCacheGem)
 
-DiskImageCacheGem is an android library to cache the images downloaded from network in disk as well as in your cache memory. It works the same as your OS access the data from disk and RAM.
+DiskImageCacheGem is an android library to cache the images downloaded from network in disk as well as in cache memory. It works the same way as the OS access data from disk and RAM.
 
 The library loads the image from URL and put it into cache as well as in disk (database). Once you close the app and clear it from memory and open the app again, it loads the data from disk to cache memory. Now you already have all the bitmaps so loading an image from URL becomes fast.
 
