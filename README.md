@@ -29,7 +29,7 @@ Step 2. Add the dependency
 
 ```bash
 dependencies {
-	        implementation 'com.github.TusharKawadkar:DiskImageCacheGem:0.1'
+	        implementation 'com.github.TusharKawadkar:DiskImageCacheGem:0.2'
 	}
 ```
 
