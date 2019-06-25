@@ -43,7 +43,7 @@ Initialize in application's onCreate() method. This will initialize and prefetch
 DiskImageCacheGem.Companion.getInstance().preFetchImages(this);
 ```
 
-Load image from URL and set into image view. This is will load image and cache in into memory and disk. If the image already exists in the cache then it will load the bitmap into image view.
+This is will load the image and cache it into memory and disk. If the image already exists in the cache then it will load the bitmap into image view.
 
 ```bash
 DiskImageCacheGem.getInstance().setImage(context, url, imageView)
