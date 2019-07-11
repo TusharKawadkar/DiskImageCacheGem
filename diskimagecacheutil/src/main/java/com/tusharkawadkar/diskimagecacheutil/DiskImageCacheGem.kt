@@ -90,7 +90,7 @@ class DiskImageCacheGem{
                 val inputStream = java.net.URL(url).openStream()
                 bitmap = BitmapFactory.decodeStream(inputStream)
             } catch (e: Exception) {
-                Log.e("Error", e.message)
+                Log.e("Error", " " + e.message)
                 e.printStackTrace()
             }
 
